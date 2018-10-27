@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rturk1/rachelmariaturk.com.git"
+    "url": "git+https://github.com/rturk1/rturk1.github.io.git"
   },
   "author": "Rachel Maria Turk",
   "license": "UNLICENSED",
   "bugs": {
-    "url": "https://github.com/rturk1/rachelmariaturk.com/issues"
+    "url": "https://github.com/rturk1/rturk1.github.io/issues"
   },
-  "homepage": "https://github.com/rturk1/rachelmariaturk.com#readme",
+  "homepage": "https://github.com/rturk1/rturk1.github.io#readme",
   "dependencies": {
     "express": "^4.16.2"
   }
