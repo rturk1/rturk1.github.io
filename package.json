@@ -1,0 +1,22 @@
+{
+  "name": "rachelmariaturk.com",
+  "version": "1.0.0",
+  "description": "Hello World!",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rturk1/rachelmariaturk.com.git"
+  },
+  "author": "Rachel Maria Turk",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/rturk1/rachelmariaturk.com/issues"
+  },
+  "homepage": "https://github.com/rturk1/rachelmariaturk.com#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
