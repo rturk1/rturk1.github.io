@@ -2939,7 +2939,7 @@ input, select, textarea {
 
 			header.major > p {
 				margin-top: 0;
-				text-align: center;
+				text-align: left ;
 			}
 
 			header.major > .date {
@@ -3411,6 +3411,10 @@ input, select, textarea {
 				visibility: visible;
 			}
 
+			#name {
+				padding-bottom: 150px;
+			}
+
 		body.is-preload #intro {
 			-moz-transform: translateY(2rem);
 			-webkit-transform: translateY(2rem);
@@ -3771,7 +3775,7 @@ input, select, textarea {
 			}
 
 			#main > .post.featured {
-				text-align: center;
+				text-align: left;
 			}
 
 			@media screen and (max-width: 1280px) {
