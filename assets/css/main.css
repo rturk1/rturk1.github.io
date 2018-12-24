@@ -21,8 +21,13 @@ li .fab, li .fas {
 	padding-top: 1rem;
 }
 
-.screenshots img{
+.screenshots img { 
 	max-height: 13rem;
+}
+
+.logo {
+	max-height: 9rem;
+	top: 0rem !important;
 }
 
 
