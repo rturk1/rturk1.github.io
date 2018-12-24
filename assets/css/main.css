@@ -30,6 +30,10 @@ li .fab, li .fas {
 	top: 0rem !important;
 }
 
+.tech-skills img {
+	max-height: 4rem;
+	padding-right: 1rem;
+}
 
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
